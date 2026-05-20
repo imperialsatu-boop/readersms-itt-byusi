@@ -1,0 +1,8 @@
+{
+  "version_name": "0.01",
+  "version_code": 1,
+  "update_date": "20/05/2026",
+  "changelog": "- Rilis perdana\n- Smart parser SMS DANA\n- Filter pengirim\n- Floating Guard\n- Login kata sandi",
+  "apk_url": "https://github.com/NAMA_USER_KAMU/NAMA_REPO_KAMU/releases/download/v0.01/ReaderSMS-ITT-v0.01.apk",
+  "mandatory": false
+}
